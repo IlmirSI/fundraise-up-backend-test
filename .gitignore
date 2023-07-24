@@ -1,0 +1,7 @@
+# compiled output
+/dist
+/node_modules
+/queue
+
+# IDE - VSCode
+/.vscode/*
